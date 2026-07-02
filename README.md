@@ -5,7 +5,7 @@ to Salesforce and is published via GitHub Pages.
 
 ## Live site
 
-https://twentyTwo.github.io/web-to-lead-form
+https://twentytwo.github.io/web-to-lead-form/
 
 ## Features
 
